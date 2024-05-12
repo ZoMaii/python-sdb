@@ -1,6 +1,6 @@
 import json
 
-# Copyright (c) 2024 ZoMaii All right
+# MIT 2024 From ZoMaii
 # 17点23分 2024/5/11
 ##############################################
 #                                            #

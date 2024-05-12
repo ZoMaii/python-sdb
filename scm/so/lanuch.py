@@ -1,4 +1,4 @@
-# Copyright (C) 2020-2024 maichc.club All right
+# MIT 2024 From maichc.club
 # 准 MVC 模型，部分模块并未深度修改
 
 # 重构/复刻负责人:
